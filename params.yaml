@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_lab_40__36617: 'http://lab-40:36617/'}
+rosversion: '1.14.3
+
+  '
+run_id: b76045a0-ad50-11e9-a8a6-ecb1d735319d
